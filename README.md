@@ -6,6 +6,9 @@
 
 literalincludeのdiffオプションではなく、github風に見せたいという方向けです。
 
+![SingleView](./images/image_000.png)
+![SideBySideView](./images/image_001.png)
+
 ## 機能
 
 - diff2htmlに準じます。
