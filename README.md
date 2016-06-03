@@ -12,6 +12,19 @@ literalincludeのdiffオプションではなく、github風に見せたいと�
 
 ## 使い方
 
+### インストール
+
+pipでインストールする場合
+```sh
+pip install git+https://github.com/tsgkdt/sphinxcontrib-diff2html.git
+```
+
+setup.pyを使いたい場合　git cloneしたあと
+```
+python setup.py install
+```
+
+
 ### conf.pyでの設定
 
 拡張を有効にします。
