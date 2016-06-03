@@ -61,3 +61,10 @@ diff2html_style = 'https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/sty
 
 ## demo
 
+gitlab-pagesで、動作例を紹介します。
+
+- [sphinxcontrib-diff2html demo](https://tsgkdt.gitlab.io/sphinxcontrib-diff2html-demo/index.html)
+
+生成元はこちら。gitlab-ciでビルドしています。
+
+- [gitlab-repository](https://gitlab.com/tsgkdt/sphinxcontrib-diff2html-demo)
